@@ -60,3 +60,6 @@ For more on developing/modding see the [wiki!](https://github.com/MovingBlocks/T
 * [Facebook](http://www.facebook.com/pages/Terasology/248329655219905)
 * [G+](https://plus.google.com/b/103835217961917018533)
 * [Discord](https://discord.gg/4uKbB8J)
+
+
+This is an example of changing file for github and pushing it .
